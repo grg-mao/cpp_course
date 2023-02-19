@@ -3,11 +3,11 @@
 int main()
 {
 
-float val;
+int num1, num2;
 
-    std::cout << "Digite um valor: ";
-    std::cin >> val;
-    std::cout << "Valor digitado: " << val << std::endl;
+    std::cout << "Digite dois numeros para somar: ";
+    std::cin >> num1 >> num2;
+    std::cout << "Soma: " << num1 + num2 << std::endl;
     getchar();
     return 0;
 }
