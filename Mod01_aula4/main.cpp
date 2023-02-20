@@ -1,18 +1,21 @@
 #include <iostream>
 
 using std::cout;
-using std::cin;
 using std::endl;
 
 #include <string> //classe de string no padrao c++
 using std::string;
-using std::getline;
 
 //==================================================
 // Desenvolvimento da classe
 class SalesScore
 {
     public: //public é um especificador de acesso
+
+        SalesScore(string title)
+        {
+            setStoreTitle(title);
+        }  //end SalesScore
 
         void setStoreTitle(string title)
         {
@@ -39,16 +42,15 @@ class SalesScore
 
 int main()
 {
-    string storeTitle; // variavel local string para nome da loja
-    SalesScore mySales; // objeto mySales
+    //cria dois objetos SalesScore
+    SalesScore myStore1("WR Master Store plus");
+    SalesScore myStore2("WR Store");
 
-    cout << "Insira o titulo inicial da loja: " << mySales.getStoreTitle() << endl;
+    cout <<  "Loja 1 criada com sucesso: " << myStore1.getStoreTitle()
+         << "\nLoja 2 criada com sucesso: " << myStore2.getStoreTitle();
 
-    cout << "Insira o nome da loja: " << endl;
-    getline(cin, storeTitle); //ler o nome da loja com espacos em branco
-    cout << endl;
-
-    mySales.bootSystem(storeTitle);
+    while(1);
     return 0;
+
 }
 // Final do programa
