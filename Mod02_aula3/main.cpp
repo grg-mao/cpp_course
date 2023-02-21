@@ -3,6 +3,7 @@
 using std::cout;
 using std::endl;
 
+
 int main()
 {
     cout << "Resultado: \n";
@@ -16,3 +17,4 @@ int main()
     getchar();
     return 0;
 }
+
