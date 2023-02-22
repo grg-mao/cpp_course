@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1677043083 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod02_aula4_exercicio\main.cpp
+1677044231 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod02_aula4_exercicio\main.cpp
 	<iostream>
 	<math.h>
+	"calc.hpp"
 
 1676962879 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod02_aula4_exercicio\calc.cpp
+
+1677044562 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod02_aula4_exercicio\calc.hpp
 
