@@ -1,4 +1,15 @@
 # depslib dependency file v1.0
-1676959442 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\dowhile\main.cpp
+1676959797 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\dowhile\main.cpp
 	<iostream>
+
+1676962194 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\dowhile\exercicio\calculadora.cpp
+	"Calculadora.hpp"
+
+1676962034 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\dowhile\exercicio\calculadora.hpp
+	<iostream>
+	<math.h>
+
+1676962207 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\dowhile\exercicio\main.cpp
+	"Calculadora.hpp"
+	<locale.h>
 
