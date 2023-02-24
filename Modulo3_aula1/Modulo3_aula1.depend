@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677218743 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\modulo3_aula1\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
