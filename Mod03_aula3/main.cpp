@@ -19,6 +19,7 @@ int main()
 
 unsigned long fact(unsigned long num)
 {
+    cout << num << endl;
     if(num <= 1)
         return 1;
     else
