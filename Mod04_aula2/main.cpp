@@ -18,11 +18,13 @@ int main()
 
     cout << ptr_arr << endl;
     ptr_arr += 2;
-    cout << ptr_arr << endl;
+    cout << ptr_arr[1] << endl;
 
     for(int i = 0; i<6; i++)
         cout << &arr[i] << endl;
 
-    //cout << &arr[1] - &arr[0] << endl;
+
+
+
     return 0;
 }
