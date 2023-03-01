@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1677654703 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod04_aula3\main.cpp
+	<iostream>
+	"cartas.hpp"
+	"cartas.hpp"
+
+1677654651 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod04_aula3\cartas.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1677654586 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod04_aula3\cartas.cpp
+	"cartas.hpp"
+	"cartas.hpp"
+
