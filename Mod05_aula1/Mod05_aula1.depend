@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677910318 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1\divtres.cpp
+	"DivTres.hpp"
+
+1677910319 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1\divtres.hpp
+	<iostream>
+	<iomanip>
+

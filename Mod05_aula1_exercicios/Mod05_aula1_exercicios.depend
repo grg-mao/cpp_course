@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1678086582 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\main.cpp
+	<iostream>
+	"PrintVal.hpp"
+	"Bhaskara.hpp"
+
+1677993691 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\printval.hpp
+	<iostream>
+
+1677993612 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\printval.cpp
+	"PrintVal.hpp"
+
+1678087126 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\bhaskara.cpp
+	"Bhaskara.hpp"
+
+1678087250 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\bhaskara.hpp
+	<iostream>
+	<cmath>
+
+1677997055 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula1_exercicios\mainex.cpp
+	"Bhaskara.hpp"
+
