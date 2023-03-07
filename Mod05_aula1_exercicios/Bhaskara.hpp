@@ -19,10 +19,10 @@ class Bhaskara
         void solvesB();
         void printEq();
         void printRes();
-        void calcDelta(int a,int b,int c);
-        double calcRoots(double delta, int a, int b);
 
     private:
+        void calcDelta(int a,int b,int c);
+        double calcRoots(double delta, int a, int b);
 
 };
 
