@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678253574 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula3\main.cpp
+	<iostream>
+	"ProdNames.hpp"
+
+1678254308 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula3\prodnames.hpp
+	"ProdPrice.hpp"
+
+1678253754 c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula3\prodprice.hpp
+
+1678253909 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod05_aula3\prodprice.cpp
+	<iostream>
+	"ProdPrice.hpp"
+
