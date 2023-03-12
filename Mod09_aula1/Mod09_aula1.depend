@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678598966 source:c:\users\gabri\onedrive\documentos\a_main_project\courses\c++_embedded\mod09_aula1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
